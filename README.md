@@ -19,38 +19,38 @@ The objective of this project is to create an automated reservation system that 
 6.Maintain historical records for reference
 
 🔹 Rescheduling & Cancellation
-To cancel or reschedule, the system requires input such as the passenger’s name, seat number, and number of seats.
+.To cancel or reschedule, the system requires input such as the passenger’s name, seat number, and number of seats.
 
-For rescheduling, the user must also provide the new date and time, and a revised ticket is displayed.
+.For rescheduling, the user must also provide the new date and time, and a revised ticket is displayed.
 
 💻 Hardware and Software Requirements
 Hardware:
 
-Processor: Intel i3 or above
+.Processor: Intel i3 or above
 
-RAM: 4 GB or higher
+.RAM: 4 GB or higher
 
 Storage: 64 GB or more
 
 Software:
 
-Operating System: Windows 7 or higher / macOS
+.Operating System: Windows 7 or higher / macOS
 
-Compiler: Dev C++ / Code::Blocks / Visual Studio Code
+C.ompiler: Dev C++ / Code::Blocks / Visual Studio Code
 
 🔁 Algorithm (System Flow)
 Step 1: Start the program
 Step 2: Display the main menu:
 
-Reservation
+1.Reservation
 
-Cancellation / Rescheduling
+2.Cancellation / Rescheduling
 
-Booking Details
+3.Booking Details
 
-Previous Records
+4.Previous Records
 
-Exit
+5.Exit
 
 Step 3: If Reservation selected:
 
@@ -58,35 +58,35 @@ Enter source, destination, travel date, seat class, number of passengers
 
 Select airline:
 
-Air India
+1.Air India
 
-Indigo
+2.Indigo
 
-Vistara
+3.Vistara
 
-TruJet
+4.TruJet
 
-Go Air
+5.Go Air
 
-SpiceJet
+6.SpiceJet
 
 Check seat availability
 
 If available:
 
-Enter passenger details
+.Enter passenger details
 
-Calculate and display total fare (with applicable discounts)
+.Calculate and display total fare (with applicable discounts)
 
-Display ticket
+.Display ticket
 
 Step 4: If Cancellation / Rescheduling selected:
 
-Reschedule
+.Reschedule
 
-Cancel
+.Cancel
 
-Back to Main Menu
+.Back to Main Menu
 
 Step 5: If Reschedule:
 
