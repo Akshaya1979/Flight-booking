@@ -1,4 +1,4 @@
-✈️ Flight Ticket Booking System – Abstract (Python Version)
+✈️ Flight Ticket Booking System using python
 🔹 Project Overview
 The Flight Ticket Booking System (FTBS) is a command-line based application developed using the Python programming language. It enables users to book flight tickets, manage passenger data, and handle reservations in an efficient and automated manner. The system provides core functionalities like booking, cancellation, rescheduling, and viewing records, making it ideal for small-scale travel agencies or educational projects.
 
